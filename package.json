@@ -1,6 +1,6 @@
 {
-  "name": "gridsome-starter-blog",
-  "private": true,
+  "name": "qas-blogs-and-columns",
+  "private": false,
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",

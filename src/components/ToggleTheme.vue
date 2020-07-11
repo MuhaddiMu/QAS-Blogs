@@ -46,7 +46,7 @@
       </svg>
     </button>
     <button role="button" class="toggle-theme">
-      <a href="https://github.com/MuhaddiMu/QAS-Blog" target="_blank">
+      <a href="https://github.com/MuhaddiMu/QAS-Blogs" target="_blank">
         <svg
           v-if="darkTheme"
           version="1.1"
