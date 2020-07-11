@@ -4,7 +4,6 @@ date: 2020-07-05
 tags: ["Success", "Society"]
 published: true
 series: false
-cover_image: ./images/Society.jpg
 canonical_url: false
 description: "!زندگی بدلنا چاہتے ہو تو سب سے پہلے سوچ کو بدلنا ہوگا"
 ---

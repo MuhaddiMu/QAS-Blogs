@@ -81,6 +81,7 @@ export default {
   &__tags {
     z-index: 1;
     position: relative;
+    display: block;
     float: right;
   }
 
