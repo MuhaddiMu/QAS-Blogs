@@ -19,16 +19,7 @@
         >Made with ❤️ in Pakistan by
         <a href="https://Muhaddis.Info">Muhaddis</a></span
       >
-      <span class="footer__links"
-        ><iframe
-          src="https://ghbtns.com/github-btn.html?user=MuhaddiMu&repo=QAS-Blogs&type=star&count=true"
-          frameborder="0"
-          scrolling="0"
-          width="150"
-          height="20"
-          title="GitHub"
-        ></iframe
-      ></span>
+      <span class="footer__links"></span>
     </footer>
   </div>
 </template>
