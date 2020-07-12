@@ -19,7 +19,7 @@ query {
   font-size: 0.9em;
 
   &__text {
-    font-family: "BBC Nassim Urdu", Arial, Verdana, Geneva, Helvetica;
+    font-family: "BBC Nassim Urdu", Arial, Verdana, Geneva, Helvetica !important;
   }
 
   &__image {

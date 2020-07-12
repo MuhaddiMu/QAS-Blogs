@@ -55,7 +55,7 @@ export default {
 
   &__site-title {
     font-size: 1.5em;
-    font-family: "BBC Nassim Urdu", Arial, Verdana, Geneva, Helvetica;
+    font-family: "BBC Nassim Urdu", Arial, Verdana, Geneva, Helvetica !important;
   }
 }
 </style>

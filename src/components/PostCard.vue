@@ -55,7 +55,7 @@ export default {
   }
 
   &__description {
-    font-family: "BBC Nassim Urdu", Arial, Verdana, Geneva, Helvetica;
+    font-family: "BBC Nassim Urdu", Arial, Verdana, Geneva, Helvetica !important;
     text-align: right;
   }
 
@@ -65,7 +65,7 @@ export default {
 
   &__title {
     margin-top: 0;
-    font-family: "BBC Nassim Urdu", Arial, Verdana, Geneva, Helvetica;
+    font-family: "BBC Nassim Urdu", Arial, Verdana, Geneva, Helvetica !important;
     text-align: right;
   }
 
