@@ -9,10 +9,14 @@ export default function(Vue, { router, head, isClient }) {
   head.link.push({
     rel: "preload",
     href: "/fonts/normal.woff",
+    as: "font",
+    crossorigin: "anonymous",
   });
   head.link.push({
     rel: "preload",
     href: "/fonts/bold.woff",
+    as: "font",
+    crossorigin: "anonymous",
   });
 
   // Set default layout as a global component
