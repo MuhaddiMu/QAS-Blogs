@@ -51,6 +51,8 @@ export default {
 
   &__intro {
     opacity: 0.8;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI",
+      Roboto, "Helvetica Neue", Arial, sans-serif;
   }
 
   &__site-title {

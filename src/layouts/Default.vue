@@ -74,6 +74,8 @@ export default {
   padding: calc(var(--space) / 2);
   text-align: center;
   font-size: 0.8em;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
 
   > span {
     margin: 0 0.35em;
