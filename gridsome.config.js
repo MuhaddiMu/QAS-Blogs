@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: "قاسم علی شاہ",
-  siteDescription: "Curated list of columns and blogs by Qasim Ali Shah",
+  siteDescription: "A Curated list of columns and blogs by Qasim Ali Shah",
 
   templates: {
     Post: "/:title",
