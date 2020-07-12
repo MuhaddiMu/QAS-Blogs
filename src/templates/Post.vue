@@ -103,11 +103,10 @@ query Post ($id: ID!) {
   }
 
   &__content {
-    font-family: "BBC Nassim Urdu", Arial, Verdana, Geneva, Helvetica sans-serif !important;
+    font-family: "BBC Nassim Urdu", Arial, Verdana, Geneva, Helvetica !important;
     text-align: right;
     h2 {
-      font-family: "BBC Nassim Urdu", Arial, Verdana, Geneva,
-        Helvetica sans-serif !important;
+      font-family: "BBC Nassim Urdu", Arial, Verdana, Geneva, Helvetica !important;
     }
     h2:first-child {
       margin-top: 0;
