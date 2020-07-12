@@ -8,7 +8,11 @@ import DefaultLayout from "~/layouts/Default.vue";
 export default function(Vue, { router, head, isClient }) {
   head.link.push({
     rel: "preload",
-    href: "Normal.woff",
+    href: "normal.woff",
+  });
+  head.link.push({
+    rel: "preload",
+    href: "bold.woff",
   });
 
   // Set default layout as a global component
