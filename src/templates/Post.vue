@@ -77,6 +77,7 @@ query Post ($id: ID!) {
 
 <style lang="scss">
 .post-title {
+  direction: rtl;
   padding: calc(var(--space) / 2) 0 calc(var(--space) / 2);
   text-align: center;
   &__text {
@@ -104,6 +105,7 @@ query Post ($id: ID!) {
 
   &__content {
     font-family: "BBC Nassim Urdu", Arial, Verdana, Geneva, Helvetica !important;
+    direction: rtl;
     text-align: right;
     h2 {
       font-family: "BBC Nassim Urdu", Arial, Verdana, Geneva, Helvetica !important;
