@@ -16,7 +16,7 @@ Feel free to contribute in this project by creating a new post or edit the exist
 ## Project Owner 🚀
 This project is volunteerly developed and maintained by [Muhaddis](https://muhaddis.info) Feel free to say 👋 at ask@muhaddis.info
 
-## Blogs Sources 🔗
+## Content Sources 🔗
 Here are some of the resources I migrate blogs from:
 * http://www.qasimalishah.com/category/columns/
 * http://www.qasimalishah.com/category/articles/
