@@ -11,10 +11,10 @@ A curated list of Qasim Ali Shah blogs, articles and columns from different reso
 https://qas-blogs.netlify.app/
 
 ## Contribution 🤝
-Feel free to contribute in this project by creating a new post or edit the existing ones. This project is based on Gridsome which is markdown based CMS. See the posts in [`content/posts`](https://github.com/MuhaddiMu/QAS-Blogs/tree/master/content/posts) to understand the strucutre of markdown
+Feel free to contribute to this project by creating a new post or edit the existing ones. This project is based on Gridsome which is markdown based CMS. See the posts in [`content/posts`](https://github.com/MuhaddiMu/QAS-Blogs/tree/master/content/posts) to understand the structure of markdown
 
 ## Project Owner 🚀
-This project is volunteerly developed and maintained by [Muhaddis](https://muhaddis.info) Feel free to say 👋 at ask@muhaddis.info
+This project is voluntarily developed and maintained by [Muhaddis](https://muhaddis.info) Feel free to say 👋 at ask@muhaddis.info
 
 ## Content Sources 🔗
 Here are some of the resources I migrate blogs from:
@@ -25,10 +25,9 @@ Here are some of the resources I migrate blogs from:
 * https://www.facebook.com/Qasim.Ali.Shah/
 
 ## I want to Sponsor this project 🤟
-Select any of the sponsorhip package that suits you the best. Contact me for more information
-1. Buy an yearly TLD domain name.
+Select any of the sponsorship packages that suits you the best. Contact me for more information
+1. Buy a yearly TLD domain name.
 
 ---
 
-MIT Licsense 2020
-Muhaddis
+MIT License 2020 – Muhaddis
